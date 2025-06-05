@@ -219,7 +219,7 @@ Due to academic integrity policies, the source code and raw data files are not p
 # Author:
 
 ```bash
-Author: Sai Kiran Reddy Dyavadi
-Role  : Data Scientist
-Email : dyavadi324@gmail.com
+Author: Sai Koushik Rao Dugyala
+Role  : Software Engineer
+Email : saikoushikraodugyalada@gmail.com
 ```
